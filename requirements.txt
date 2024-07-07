@@ -1,0 +1,6 @@
+aiogram~=3.8.0
+pyinstaller
+fastapi~=0.111.0
+jinja2
+pydantic==2.8.0
+uvicorn~=0.30.1
