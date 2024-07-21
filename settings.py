@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher
 
-TOKEN = "7138810619:AAEMNwCffHbbJHCC78psxgij8X-9QcowKns"
+TOKEN = "HERE MUST BE UR BOT TOKEN"
 
 bot = Bot(TOKEN)
 dp = Dispatcher()
